@@ -1,0 +1,27 @@
+
+.table {
+    width: 750px;
+    margin-bottom: 60px;
+}
+.th {
+ color:aliceblue;
+height: 80px;
+text-align: center;
+background-color: rgb(36, 36, 80);
+font-size: 22px;
+}
+
+
+.tableBody {
+    background-color: #fff;
+    color: rgb(39, 38, 38);
+    font-size: 18px;
+    padding: 5px;
+    height: 30px;
+text-align: center;
+font-size: 18px;
+  }
+
+  .add {
+    background-color: rgb(216, 222, 230);
+  }
