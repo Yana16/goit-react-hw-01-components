@@ -1,5 +1,5 @@
 import React from 'react';
-import style from '../TransactionHistory/TransactionHistory.module.css';
+import style from '../TransactionHistory/transactionHistory.module.css';
 import PropTypes from 'prop-types';
 
 

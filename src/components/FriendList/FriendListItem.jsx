@@ -1,5 +1,5 @@
 import React from 'react';
-import style from '../FriendList/FriendList.module.css';
+import style from '../FriendList/friendList.module.css';
 import PropTypes from 'prop-types';
 
 
